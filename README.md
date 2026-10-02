@@ -1225,6 +1225,8 @@ Projects building with or extending x402.
 - [Ren API](https://ren-api-production.up.railway.app) - Seed-oil-free restaurant intelligence for AI agents with restaurant lookup and dish-swap endpoints. Data sourced from live restaurant calls; $0.01 USDC per call on Base. ([Discovery](https://ren-api-production.up.railway.app/.well-known/x402.json) | [llms.txt](https://ren-api-production.up.railway.app/llms.txt))
 - [RepoPulse](https://repo-pulse.dvd90.workers.dev) - Deterministic 0–100 health score for any public GitHub repository, with a nine-signal breakdown (commit recency, release cadence, issue hygiene, PR flow, bus factor, CI, tests, docs, dependency freshness), A–F grade and flags. $0.01 USDC on Base, no account or key. Bazaar-discoverable and MCP-ready. ([GitHub](https://github.com/dvd90/repo-pulse))
 
+- [Scout Packs](https://scoutpacks-tunnel-1.loca.lt) - Verified B2B lead packs for AI agents and operators: 25 leads $9, 50 leads $15, 100 leads $25. Every lead carries company, contact name, title, published email, and source URL as machine-readable JSON. x402 paywall, USDC on Base, no account or API key. 25-pack delivers instantly; 50/100-pack assembled and delivered within 24h. ([GitHub](https://github.com/tigerops-win/scout-packs) | [Discovery](https://scoutpacks-tunnel-1.loca.lt/.well-known/x402))
+
 ### Charity & Social Impact
 
 - [x402 Charity](https://allscale-io.github.io/x402charity/) - Open-source middleware for automatic micro-donations via x402. Embed charitable giving into any payment flow — trades, API calls, subscriptions. $0.0001 USDC per event on Base. CLI + web widget. Built by [AllScale Lab](https://allscale.io). ([GitHub](https://github.com/allscale-io/x402charity))
